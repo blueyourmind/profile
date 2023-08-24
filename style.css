@@ -1,0 +1,65 @@
+body {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  background-color:#134da9;
+  text-align:center;
+  background-image: url("images/blue.jpg");
+  }
+
+  h1,h2,h3{
+    font-family: 'Monda', sans-serif;
+    color:#000000ba;}
+
+  #profile-pic{
+    width:200px;
+    height:200px;
+    border-radius:50%;}
+
+  .card{
+    background:rgba(255, 255, 255, 0.508);
+    border-radius:9px;
+    padding:23px;
+    margin:77px auto;
+    border: 0.5px solid #6e6666b7;box-shadow:
+     27px 9px 23px 5px rgba(0, 0, 0, 0.795);
+  }
+
+  .card1{
+    background:rgb(255, 255, 255);
+    border-radius:9px;
+    padding:36px;margin:5px auto;
+  }
+  .homer{
+  height:100%;
+  width:230px;
+  margin-bottom:20px;
+}
+.b{
+  color: #000000b6; ;
+}
+
+
+a{text-decoration: none;}
+
+  .H {font-size:45px;color:#22344f9e;text-align:center;}
+
+
+   .container {
+    width:1400px;
+    margin: 0 auto;
+  }
+
+ @media (max-width: 960px) {
+    .container {
+      width: 700px;
+    }
+  }
+  @media (max-width: 720px) {
+    .container {
+      width: 500px;
+    }
+  }
+  @media (max-width: 540px) {
+   .container {
+      width: 300px;
+    }
+  }
