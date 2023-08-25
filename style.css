@@ -24,7 +24,7 @@ body {
   }
 
   .card1{
-    background:rgb(255, 255, 255);
+    background:rgba(255, 255, 255, 0);
     border-radius:9px;
     padding:36px;margin:5px auto;
   }
@@ -34,13 +34,21 @@ body {
   margin-bottom:20px;
 }
 .b{
-  color: #000000b6; 
+  color: #000000b6;
 }
 
+p{line-height:54px;
+font-size:23px;
+text-align:justify;
+margin:36px
+}
 
 a{text-decoration: none;}
 
-  .H {font-size:45px;color:#22344f9e;text-align:center;}
+.H {font-size:45px;
+color:#22344f9e;
+text-align:center;
+}
 
 
    .container {
