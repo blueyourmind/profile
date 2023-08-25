@@ -37,9 +37,8 @@ body {
   color: #000000b6;
 }
 
-p{line-height:30px;
-font-size:27px;
-text-align:justify;
+p{line-height:180%;
+font-size:23px;
 margin:23px
 }
 
