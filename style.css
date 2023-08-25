@@ -24,15 +24,19 @@ body {
   }
 
   .card1{
-    background:rgba(255, 255, 255, 0);
+    background:rgb(255, 255, 255);
     border-radius:9px;
     padding:36px;margin:5px auto;
   }
-
-.b{
-  color: #000000b6;
+  .homer{
+  height:100%;
+  width:230px;
+  margin-bottom:20px;
 }
-p{text-align:justify;line-height:41px;margin:auto;padding:14px;font-size:18px;}
+.b{
+  color: #000000b6; 
+}
+
 
 a{text-decoration: none;}
 
